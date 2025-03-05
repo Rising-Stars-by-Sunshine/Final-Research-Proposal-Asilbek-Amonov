@@ -12,8 +12,8 @@ Our goal is to provide **empirical evidence** on whether academic honors serve a
 2. How does Dean’s List recognition affect **course load, retention, and long-term academic success**?
 3. Are there **heterogeneous effects** based on student demographics, prior academic history, or motivation levels?
 4. Can **machine learning techniques** improve our understanding of how students respond to academic incentives?
-   ---
-   !(Poster)(https://github.com/Rising-Stars-by-Sunshine/Final-Research-Proposal-Asilbek-Amonov/blob/main/visualization/White%20and%20Blue%20Modern%20College%20Academic%20Research%20Poster%20(1).png)
+   
+  ![Poster](https://github.com/Rising-Stars-by-Sunshine/Final-Research-Proposal-Asilbek-Amonov/blob/main/visualization/White%20and%20Blue%20Modern%20College%20Academic%20Research%20Poster%20(1).png)
 
 ---
 
